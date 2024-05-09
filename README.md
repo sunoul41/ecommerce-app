@@ -143,11 +143,6 @@ STRIPE_SECRET_KEY="YOUR_STRIPE_SECRET_KEY"
 - [x] `Dashboard Reference` Link: [Click Here](https://loopinfosol.in/themeforest/ekka-html-v33/ekka-admin/index.html)
 - [x] `Reference Site` Live Link: [Click Here](https://chisnghiax.com/ciseco/)
 
-# Author
-
-- Developer: [Hasibul Islam](https://bento.me/devhasibulislam)
-- Designer: [Sadia Khanum](https://www.facebook.com/devsadiakhan) `dedicate to`
-
 # `find it useful` then `buy me a coffee` 😜😜😜
 
 <a href="https://www.buymeacoffee.com/devhasibulislam" target="_blank">
